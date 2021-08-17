@@ -29,7 +29,7 @@ export default class Compose extends Component {
   }
 
   render() {
-    // Destructuring
+    // Destructuring Test Comment ddd
     const { text } = this.state;
 
     return (
